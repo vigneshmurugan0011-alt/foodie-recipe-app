@@ -1,0 +1,30 @@
+{
+  "expo": {
+    "name": "foodie-recipe-app",
+    "slug": "snack-e3c773eb-dc93-421f-abe5-4448e14d1cc1",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/icon.png",
+    "userInterfaceStyle": "light",
+    "newArchEnabled": true,
+    "splash": {
+      "image": "./assets/splash-icon.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#ffffff"
+    },
+    "ios": {
+      "supportsTablet": true
+    },
+    "android": {
+      "adaptiveIcon": {
+        "foregroundImage": "./assets/adaptive-icon.png",
+        "backgroundColor": "#ffffff"
+      },
+      "edgeToEdgeEnabled": true
+    },
+    "web": {
+      "favicon": "./assets/favicon.png"
+    },
+    "description": "No description Foodie is a React Native recipe app built with Expo. Users can browse recipes across 10+ categories, view ingredients and cooking instructions, save favorites, and add, edit, or delete their own recipes."
+  }
+}
